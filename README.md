@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Hitanshu Yaduwanshi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitanshu1512&label=Views&color=blue&style=plastic&style=for-the-badge" alt="hitanshu1512" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitanshu1512&label=Views&color=blue&style=plastic&style=for-the-badge" alt="hitanshu1512" /> </p> -->
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
