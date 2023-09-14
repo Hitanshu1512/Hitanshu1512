@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, <img src=" https://media4.giphy.com/media/ZZMocqZ75tuVqvMQ9I/giphy.gif?cid=ecf05e47k3wzghvfd11pkulfrnpq61mqtlvfk2uit48hny2t&ep=v1_gifs_related&rid=giphy.gif&ct=s" 
+<h1 align="center"> Hello, <img src=" https://media4.giphy.com/media/ZZMocqZ75tuVqvMQ9I/giphy.gif?cid=ecf05e47k3wzghvfd11pkulfrnpq61mqtlvfk2uit48hny2t&ep=v1_gifs_related&rid=giphy.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Hitanshu Yaduwanshi</h1>
