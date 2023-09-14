@@ -1,9 +1,9 @@
-<h1 align="center"> Hello, <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnE5aXBleDJpNXZ1czJnNmZxbWI0MnVzZGdyenN4Mmx1enU0bzVmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jaC417rBEriK2QC8vC/giphy.gif" 
+<h1 align="center"> Hello, <img src=" https://media4.giphy.com/media/ZZMocqZ75tuVqvMQ9I/giphy.gif?cid=ecf05e47k3wzghvfd11pkulfrnpq61mqtlvfk2uit48hny2t&ep=v1_gifs_related&rid=giphy.gif&ct=s" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Hitanshu Yaduwanshi</h1>
 
-<!-- https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif -->
+<!-- https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif or  https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnE5aXBleDJpNXZ1czJnNmZxbWI0MnVzZGdyenN4Mmx1enU0bzVmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jaC417rBEriK2QC8vC/giphy.gif-->
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
