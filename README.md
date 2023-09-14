@@ -1,9 +1,9 @@
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hello, <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnE5aXBleDJpNXZ1czJnNmZxbWI0MnVzZGdyenN4Mmx1enU0bzVmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jaC417rBEriK2QC8vC/giphy.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Hitanshu Yaduwanshi</h1>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitanshu1512&label=Views&color=blue&style=plastic&style=for-the-badge" alt="hitanshu1512" /> </p> -->
+<!-- https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif -->
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
